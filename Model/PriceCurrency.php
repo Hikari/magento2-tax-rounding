@@ -4,7 +4,7 @@ namespace Meanbee\TaxRounding\Model;
 
 class PriceCurrency extends \Magento\Directory\Model\PriceCurrency
 {
-    const DEFAULT_PRECISION = 3;
+    const DEFAULT_PRECISION = 2;
 
     public function round($price)
     {
