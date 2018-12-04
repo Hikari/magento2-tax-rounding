@@ -1,5 +1,5 @@
 {
-	"name": "hikari/magento2-tax-rounding",
+	"name": "Hikari/magento2-tax-rounding",
 	"description": "Defines precision for tax rounding in magento",
 	"require": {
         	"php": "~5.6.5|7.0.2|7.0.4|~7.0.6|~7.1.0"
@@ -7,4 +7,5 @@
 	"type": "magento2-module",
 	"version": "1.0",
 	"license": "MIT"
+	"minimum-stability": "stable"
 }
